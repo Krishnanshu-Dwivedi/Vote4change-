@@ -1,0 +1,12 @@
+SMAP
+showcandidate_jsp.java
+JSP
+*S JSP
+*F
++ 0 showcandidate.jsp
+showcandidate.jsp
+*L
+5,19:46
+24,27:66
+50,30:93
+*E
